@@ -1,0 +1,8 @@
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\AboutPage.webtest
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\ContactPage.webtest
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\MercuryHealth.Web.PerfTests.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\MercuryHealth.Web.PerfTests.pdb
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.pdb
