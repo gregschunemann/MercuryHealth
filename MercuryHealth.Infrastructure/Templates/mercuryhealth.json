@@ -11,7 +11,7 @@
       "type": "String"
     },
     "components_pauldevopsdemoweb_name": {
-      "defaultValue": "devopsweb",
+      "defaultValue": "devopsweb1",
       "type": "String"
     },
     "components_pauldevopsdemowebbg_name": {
@@ -79,7 +79,7 @@
       "type": "String"
     },
     "sites_PaulDevOpsDemoWeb_name": {
-      "defaultValue": "DevOpsWeb",
+      "defaultValue": "DevOpsWeb1",
       "type": "String"
     },
     "databases_master_name": {
@@ -566,11 +566,11 @@
       "properties": {
         "name": "[parameters('sites_PaulDevOpsDemoWeb_name')]",
         "hostNames": [
-          "devopsweb.azurewebsites.net"
+          "devopsweb1.azurewebsites.net"
         ],
         "enabledHostNames": [
-          "devopsweb.azurewebsites.net",
-          "devopsweb.scm.azurewebsites.net"
+          "devopsweb1.azurewebsites.net",
+          "devopsweb1.scm.azurewebsites.net"
         ],
         "hostNameSslStates": [
           {
