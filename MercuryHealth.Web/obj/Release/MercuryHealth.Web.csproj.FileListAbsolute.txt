@@ -93,8 +93,6 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\roslyn\System
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\roslyn\vbc.exe
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\roslyn\VBCSCompiler.exe
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Web.dll.config
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Web.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Web.pdb
@@ -103,15 +101,11 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\EntityFramewo
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Models.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.dll
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.dll
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensibility.PerfCounterCollector.dll
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.Security.Cookies.dll
@@ -135,8 +129,6 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\WebGrease.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Models.pdb
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Antlr3.Runtime.pdb
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.xml
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.xml
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Newtonsoft.Json.xml
@@ -164,3 +156,11 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owi
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\obj\Release\MercuryHealth.Web.csprojResolveAssemblyReference.cache
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\obj\Release\MercuryHealth.Web.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\obj\Release\MercuryHealth.Web.pdb
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.WindowsServer.xml
