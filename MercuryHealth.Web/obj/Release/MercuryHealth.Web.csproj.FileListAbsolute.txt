@@ -164,3 +164,6 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\ApplicationInsights.config
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.Web.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AI.Web.xml

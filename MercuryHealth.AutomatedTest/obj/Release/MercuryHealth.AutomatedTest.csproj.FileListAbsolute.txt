@@ -31,6 +31,5 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Rel
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\WebDriver.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\WebDriver.Support.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.csprojResolveAssemblyReference.cache
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.pdb

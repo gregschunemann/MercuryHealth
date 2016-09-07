@@ -29,7 +29,7 @@
     <SccProvider>SAK</SccProvider>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <ApplicationInsightsResourceId>/subscriptions/f5e66d29-1a7f-4ee3-822e-74f644d3e665/resourcegroups/MercuryHealthGrp/providers/microsoft.insights/components/MercuryHealthGrp</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/42095b35-7bfa-41b2-96e7-2aa59660cbb0/resourcegroups/MercuryHealth/providers/microsoft.insights/components/devopswebdevinsights</ApplicationInsightsResourceId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

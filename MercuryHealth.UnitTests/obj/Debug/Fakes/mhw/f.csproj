@@ -8,7 +8,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.21022</ProductVersion>
-    <ProjectGuid>c4fa7a71-5eee-41b9-9b52-ee8694356fa3</ProjectGuid>
+    <ProjectGuid>df7b8f24-c8ee-4cb2-9e84-9d1a15c743b0</ProjectGuid>
     <!-- update GUID here -->
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -89,10 +89,6 @@
       <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.WindowsServer.1.2.1\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
-    <Reference Include="Microsoft.ApplicationInsights">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.1.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-    </Reference>
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
       <HintPath>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
@@ -171,6 +167,10 @@
     </Reference>
     <Reference Include="Microsoft.Owin.Security.Cookies">
       <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.Security.Cookies.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights">
+      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.Owin.Host.SystemWeb">
