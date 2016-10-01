@@ -59,7 +59,7 @@
       "type": "String"
     },
     "storageAccounts_devopsdemostrg_name": {
-      "defaultValue": "devopsdemostrg",
+      "defaultValue": "merchealthstrg",
       "type": "String"
     },
     "serverfarms_PaulDevOpsDemoServicePlan_name": {

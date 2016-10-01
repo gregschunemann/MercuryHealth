@@ -39,13 +39,13 @@
       "value": "devops_RG-vnet"
     },
     "servers_pauldevopsdemosql_name": {
-      "value": "devopsmercuryhealthsql"
+      "value": "devopsmercuryhealthsql1"
     },
     "storageAccounts_devopsdemodiagstrg_name": {
       "value": "devopsdiagstrg"
     },
     "storageAccounts_devopsdemostrg_name": {
-      "value": "devopsstrg"
+      "value": "merchealthstrg"
     },
     "serverfarms_PauldevopsDemoServicePlan_name": {
       "value": "devopsServicePlan"
@@ -63,19 +63,19 @@
       "value": "devopsWeb1"
     },
     "databases_master_name": {
-      "value": "devopsmercuryhealthsql/master"
+      "value": "devopsmercuryhealthsql1/master"
     },
     "databases_PauldevopsDemoDBDev_name": {
-      "value": "devopsmercuryhealthsql/devopsDBDev"
+      "value": "devopsmercuryhealthsql1/devopsDBDev"
     },
     "databases_PauldevopsDemoDBQA_name": {
-      "value": "devopsmercuryhealthsql/PauldevopsDemoDBQA"
+      "value": "devopsmercuryhealthsql1/PauldevopsDemoDBQA"
     },
     "databases_PauldevopsDemoDB_name": {
-      "value": "devopsmercuryhealthsql/devopsDB"
+      "value": "devopsmercuryhealthsql1/devopsDB"
     },
     "firewallRules_AllowAllWindowsAzureIps_name": {
-      "value": "devopsmercuryhealthsql/AllowAllWindowsAzureIps"
+      "value": "devopsmercuryhealthsql1/AllowAllWindowsAzureIps"
     }
   }
 }
