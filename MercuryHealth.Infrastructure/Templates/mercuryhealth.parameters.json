@@ -42,10 +42,10 @@
       "value": "devopsmercuryhealthsql1"
     },
     "storageAccounts_devopsdemodiagstrg_name": {
-      "value": "devopsdiagstrg"
+      "value": "merchealthdiagstorge"
     },
     "storageAccounts_devopsdemostrg_name": {
-      "value": "merchealthstrg"
+      "value": "merchealthstorge"
     },
     "serverfarms_PauldevopsDemoServicePlan_name": {
       "value": "devopsServicePlan"
