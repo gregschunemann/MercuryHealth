@@ -162,7 +162,7 @@
       "kind": "web",
       "name": "[parameters('components_pauldevopsdemoweb_name')]",
       "apiVersion": "2014-04-01",
-      "location": "Central US",
+      "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWeb": "Resource"
       },
@@ -178,7 +178,7 @@
       "kind": "web",
       "name": "[parameters('components_pauldevopsdemowebbg_name')]",
       "apiVersion": "2014-04-01",
-      "location": "Central US",
+      "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWebBG": "Resource"
       },
@@ -194,7 +194,7 @@
       "kind": "web",
       "name": "[parameters('components_pauldevopsdemowebdev_name')]",
       "apiVersion": "2014-04-01",
-      "location": "Central US",
+      "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWebDev": "Resource"
       },
@@ -210,7 +210,7 @@
       "kind": "web",
       "name": "[parameters('components_pauldevopsdemowebqa_name')]",
       "apiVersion": "2014-04-01",
-      "location": "Central US",
+      "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWebQA": "Resource"
       },
