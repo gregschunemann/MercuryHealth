@@ -16,3 +16,12 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Release\Model
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Release\refactor.xml
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Release\postdeploy.sql
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Release\predeploy.sql
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\bin\Release\MercuryHealth.Sql.dacpac
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\bin\Release\MercuryHealth.Sql.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\bin\Release\MercuryHealth.Sql.pdb
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\obj\Release\Model.xml
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\obj\Release\refactor.xml
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\obj\Release\postdeploy.sql
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\obj\Release\predeploy.sql
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\obj\Release\MercuryHealth.Sql.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Sql\obj\Release\MercuryHealth.Sql.pdb

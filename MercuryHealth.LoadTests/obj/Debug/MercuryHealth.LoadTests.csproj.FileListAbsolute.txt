@@ -22,3 +22,14 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.LoadTests\bin\Debug\M
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.pdb
 C:\Users\pjhacker\Source\Repos\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.csprojResolveAssemblyReference.cache
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\BasicNavigation.webtest
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\CreateNutritionItem.webtest
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\Cloud.testsettings
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\MercuryHealthCombo.loadtest
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\MercuryHealth.loadtest
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\MercuryHealth.LoadTests.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\MercuryHealth.LoadTests.pdb
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.csprojResolveAssemblyReference.cache
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.dll
+C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.pdb
