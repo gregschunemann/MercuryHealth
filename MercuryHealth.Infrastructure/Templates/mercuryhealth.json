@@ -2,14 +2,6 @@
   "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "virtualMachines_DevOpsDemoBuild_adminPassword": {
-      "defaultValue": null,
-      "type": "SecureString"
-    },
-    "virtualMachines_DevOpsDemoBuild_name": {
-      "defaultValue": "DevOpsDemoBuild",
-      "type": "String"
-    },
     "components_pauldevopsdemoweb_name": {
       "defaultValue": "devopsweb1",
       "type": "String"
@@ -32,18 +24,6 @@
     },
     "networkInterfaces_devopsdemobuild445_name": {
       "defaultValue": "devopsdemobuild445",
-      "type": "String"
-    },
-    "networkSecurityGroups_DevOpsDemoBuild_nsg_name": {
-      "defaultValue": "DevOpsDemoBuild-nsg",
-      "type": "String"
-    },
-    "publicIPAddresses_DevOpsDemoBuild_ip_name": {
-      "defaultValue": "DevOpsDemoBuild-ip",
-      "type": "String"
-    },
-    "publicIPAddresses_DevOpsDemoBuildip_name": {
-      "defaultValue": "DevOpsDemoBuildip",
       "type": "String"
     },
     "virtualNetworks_PauldevopsDemo_RG_vnet_name": {

@@ -8,3 +8,8 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web.FuncTests\bin\Re
 C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.csprojResolveAssemblyReference.cache
 C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\bin\Release\MercuryHealth.Web.FuncTests.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\bin\Release\MercuryHealth.Web.FuncTests.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.csprojResolveAssemblyReference.cache
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.pdb

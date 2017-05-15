@@ -8,7 +8,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.21022</ProductVersion>
-    <ProjectGuid>ca1efd40-cfac-4d9b-9b9c-14b09b892f39</ProjectGuid>
+    <ProjectGuid>378bc07b-9215-4d31-ad5d-0eb3a6a5cbe2</ProjectGuid>
     <!-- update GUID here -->
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -51,12 +51,12 @@
       <Aliases>mqttf</Aliases>
     </Reference>
     <Reference Include="MercuryHealth.Web">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\MercuryHealth.Web.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Web.dll</HintPath>
       <Aliases>mhw</Aliases>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="MercuryHealth.Models">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\MercuryHealth.Models.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\MercuryHealth.Models.dll</HintPath>
       <Aliases>mhm</Aliases>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
@@ -66,27 +66,27 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AI.Agent.Intercept">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.0\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.0\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AI.DependencyCollector">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.ApplicationInsights.DependencyCollector.1.2.1\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.DependencyCollector.1.2.1\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AI.PerfCounterCollector">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.ApplicationInsights.PerfCounterCollector.1.2.1\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.PerfCounterCollector.1.2.1\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AI.ServerTelemetryChannel">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.1.2.1\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.1.2.1\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AI.Web">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.ApplicationInsights.Web.1.2.1\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.Web.1.2.1\lib\net45\Microsoft.AI.Web.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AI.WindowsServer">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.ApplicationInsights.WindowsServer.1.2.1\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.ApplicationInsights.WindowsServer.1.2.1\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
@@ -94,7 +94,7 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.Web.Infrastructure">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System">
@@ -106,51 +106,51 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.Helpers">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.Mvc">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.Razor">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.WebPages.Deployment">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.WebPages">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.WebPages.Razor">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.Owin">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.Owin.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Web.Optimization">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\System.Web.Optimization.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\System.Web.Optimization.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AspNet.Identity.Core">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.Core.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.Core.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AspNet.Identity.Owin">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.Owin.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.Owin.Security">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.Owin.Security.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.Security.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Owin">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Owin.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Owin.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations">
@@ -158,23 +158,23 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="EntityFramework">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\EntityFramework.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\EntityFramework.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.Owin.Security.Cookies">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.Owin.Security.Cookies.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.Security.Cookies.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.ApplicationInsights">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.ApplicationInsights.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.Owin.Host.SystemWeb">
-      <HintPath>C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.Web\bin\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+      <HintPath>C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web\bin\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.CSharp">

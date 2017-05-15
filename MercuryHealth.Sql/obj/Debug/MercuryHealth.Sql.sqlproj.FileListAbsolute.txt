@@ -1,0 +1,9 @@
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\bin\Debug\MercuryHealth.Sql.dacpac
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\bin\Debug\MercuryHealth.Sql.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\bin\Debug\MercuryHealth.Sql.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Debug\Model.xml
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Debug\refactor.xml
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Debug\postdeploy.sql
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Debug\predeploy.sql
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Debug\MercuryHealth.Sql.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Debug\MercuryHealth.Sql.pdb

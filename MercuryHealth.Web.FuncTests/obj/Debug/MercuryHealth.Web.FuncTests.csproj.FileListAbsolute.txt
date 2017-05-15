@@ -1,0 +1,4 @@
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\bin\Debug\MercuryHealth.Web.FuncTests.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\bin\Debug\MercuryHealth.Web.FuncTests.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Debug\MercuryHealth.Web.FuncTests.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Debug\MercuryHealth.Web.FuncTests.pdb

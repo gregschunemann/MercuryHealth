@@ -19,3 +19,10 @@ C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.CodedUITests\bin\Deb
 C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.CodedUITests\obj\Debug\MercuryHealth.CodedUITests.csprojResolveAssemblyReference.cache
 C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.CodedUITests\obj\Debug\MercuryHealth.CodedUITests.dll
 C:\Users\pjhacker\Source\Repos\MercuryHealth2\MercuryHealth.CodedUITests\obj\Debug\MercuryHealth.CodedUITests.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\bin\Debug\MercuryHealth.CodedUITests.dll.config.token
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\bin\Debug\MercuryHealth.CodedUITests.dll.config
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\bin\Debug\MercuryHealth.CodedUITests.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\bin\Debug\MercuryHealth.CodedUITests.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\obj\Debug\MercuryHealth.CodedUITests.csprojResolveAssemblyReference.cache
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\obj\Debug\MercuryHealth.CodedUITests.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.CodedUITests\obj\Debug\MercuryHealth.CodedUITests.pdb

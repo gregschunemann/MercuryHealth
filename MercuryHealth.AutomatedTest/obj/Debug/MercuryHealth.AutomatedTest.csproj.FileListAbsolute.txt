@@ -1,0 +1,16 @@
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\IEDriverServer.exe
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\phantomjs-license.txt
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\phantomjs.exe
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\chromedriver.exe
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\MercuryHealth.AutomatedTest.dll.config.token
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\App.config
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\MercuryHealth.AutomatedTest.dll.config
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\MercuryHealth.AutomatedTest.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\MercuryHealth.AutomatedTest.pdb
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\WebDriver.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\WebDriver.xml
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Debug\MercuryHealth.AutomatedTest.dll
+C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Debug\MercuryHealth.AutomatedTest.pdb
