@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "virtualMachines_devopsDemoBuild_adminPassword": {
-      "value": "p3psiF1at46077"
+      "value": "p3psiF1at!46077"
     },
     "virtualNetworks_PauldevopsDemo_RG_vnet_name": {
       "value": "merchealth_RG-vnet"
