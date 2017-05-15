@@ -6,6 +6,7 @@
       "type": "String"
     },
     "components_pauldevopsdemoweb_name": {
+      "defaultValue": "devopsweb1",
       "type": "String"
     },
     "components_pauldevopsdemowebbg_name": {
