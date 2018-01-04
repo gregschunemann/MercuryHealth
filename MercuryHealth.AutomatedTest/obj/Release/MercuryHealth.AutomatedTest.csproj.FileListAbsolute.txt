@@ -84,3 +84,4 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.csproj.CoreCompileInputs.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.csprojResolveAssemblyReference.cache
