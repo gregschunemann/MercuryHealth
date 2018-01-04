@@ -67,3 +67,20 @@ C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\bin\
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.csprojResolveAssemblyReference.cache
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.dll
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\phantomjs-license.txt
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\IEDriverServer.exe
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\phantomjs.exe
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\chromedriver.exe
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\MercuryHealth.AutomatedTest.dll.config.token
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\App.config
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\MercuryHealth.AutomatedTest.dll.config
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\MercuryHealth.AutomatedTest.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\MercuryHealth.AutomatedTest.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\WebDriver.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\WebDriver.Support.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\WebDriver.xml
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\bin\Release\WebDriver.Support.xml
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.csproj.CoreCompileInputs.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.AutomatedTest\obj\Release\MercuryHealth.AutomatedTest.pdb

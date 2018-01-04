@@ -2,12 +2,7 @@
   "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "virtualMachines_DevOpsDemoBuild_adminPassword": {
-      "defaultValue": null,
-      "type": "SecureString"
-    },
-    "virtualMachines_DevOpsDemoBuild_name": {
-      "defaultValue": "DevOpsDemoBuild",
+    "virtualMachines_devopsDemoBuild_adminPassword": {
       "type": "String"
     },
     "components_pauldevopsdemoweb_name": {
@@ -32,18 +27,6 @@
     },
     "networkInterfaces_devopsdemobuild445_name": {
       "defaultValue": "devopsdemobuild445",
-      "type": "String"
-    },
-    "networkSecurityGroups_DevOpsDemoBuild_nsg_name": {
-      "defaultValue": "DevOpsDemoBuild-nsg",
-      "type": "String"
-    },
-    "publicIPAddresses_DevOpsDemoBuild_ip_name": {
-      "defaultValue": "DevOpsDemoBuild-ip",
-      "type": "String"
-    },
-    "publicIPAddresses_DevOpsDemoBuildip_name": {
-      "defaultValue": "DevOpsDemoBuildip",
       "type": "String"
     },
     "virtualNetworks_PauldevopsDemo_RG_vnet_name": {
@@ -106,57 +89,6 @@
   "variables": { },
   "resources": [
     {
-      "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Compute/virtualMachines/DevOpsDemoBuild'.",
-      "type": "Microsoft.Compute/virtualMachines",
-      "name": "[parameters('virtualMachines_DevOpsDemoBuild_name')]",
-      "apiVersion": "2015-06-15",
-      "location": "eastus",
-      "properties": {
-        "hardwareProfile": {
-          "vmSize": "Standard_D2"
-        },
-        "storageProfile": {
-          "imageReference": {
-            "publisher": "MicrosoftVisualStudio",
-            "offer": "VisualStudio",
-            "sku": "VS-2015-Ent-VSU3-AzureSDK-291-WS2012R2",
-            "version": "latest"
-          },
-          "osDisk": {
-            "name": "[parameters('virtualMachines_DevOpsDemoBuild_name')]",
-            "createOption": "FromImage",
-            "vhd": {
-              "uri": "[concat('https', '://', parameters('storageAccounts_devopsdemostrg_name'), '.blob.core.windows.net', concat('/vhds/', parameters('virtualMachines_DevOpsDemoBuild_name'),'201671521300.vhd'))]"
-            },
-            "caching": "ReadWrite"
-          },
-          "dataDisks": [ ]
-        },
-        "osProfile": {
-          "computerName": "[parameters('virtualMachines_DevOpsDemoBuild_name')]",
-          "adminUsername": "clouduser",
-          "windowsConfiguration": {
-            "provisionVMAgent": true,
-            "enableAutomaticUpdates": true
-          },
-          "secrets": [ ],
-          "adminPassword": "[parameters('virtualMachines_DevOpsDemoBuild_adminPassword')]"
-        },
-        "networkProfile": {
-          "networkInterfaces": [
-            {
-              "id": "[resourceId('Microsoft.Network/networkInterfaces', parameters('networkInterfaces_devopsdemobuild273_name'))]"
-            }
-          ]
-        }
-      },
-      "resources": [ ],
-      "dependsOn": [
-        "[resourceId('Microsoft.Storage/storageAccounts', parameters('storageAccounts_devopsdemostrg_name'))]",
-        "[resourceId('Microsoft.Network/networkInterfaces', parameters('networkInterfaces_devopsdemobuild273_name'))]"
-      ]
-    },
-    {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/microsoft.insights/components/pauldevopsdemoweb'.",
       "type": "microsoft.insights/components",
       "kind": "web",
@@ -216,132 +148,6 @@
       },
       "properties": {
         "ApplicationId": "[parameters('components_pauldevopsdemowebqa_name')]"
-      },
-      "resources": [ ],
-      "dependsOn": [ ]
-    },
-    {
-      "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Network/networkInterfaces/devopsdemobuild273'.",
-      "type": "Microsoft.Network/networkInterfaces",
-      "name": "[parameters('networkInterfaces_devopsdemobuild273_name')]",
-      "apiVersion": "2016-03-30",
-      "location": "eastus",
-      "properties": {
-        "ipConfigurations": [
-          {
-            "name": "ipconfig1",
-            "properties": {
-              "privateIPAddress": "10.2.0.5",
-              "privateIPAllocationMethod": "Dynamic",
-              "publicIPAddress": {
-                "id": "[resourceId('Microsoft.Network/publicIPAddresses', parameters('publicIPAddresses_DevOpsDemoBuildip_name'))]"
-              },
-              "subnet": {
-                "id": "[concat(resourceId('Microsoft.Network/virtualNetworks', parameters('virtualNetworks_PauldevopsDemo_RG_vnet_name')), '/subnets/default')]"
-              }
-            }
-          }
-        ],
-        "dnsSettings": {
-          "dnsServers": [ ]
-        },
-        "enableIPForwarding": false,
-        "networkSecurityGroup": {
-          "id": "[resourceId('Microsoft.Network/networkSecurityGroups', parameters('networkSecurityGroups_DevOpsDemoBuild_nsg_name'))]"
-        }
-      },
-      "resources": [ ],
-      "dependsOn": [
-        "[resourceId('Microsoft.Network/publicIPAddresses', parameters('publicIPAddresses_DevOpsDemoBuildip_name'))]",
-        "[resourceId('Microsoft.Network/virtualNetworks', parameters('virtualNetworks_PauldevopsDemo_RG_vnet_name'))]",
-        "[resourceId('Microsoft.Network/networkSecurityGroups', parameters('networkSecurityGroups_DevOpsDemoBuild_nsg_name'))]"
-      ]
-    },
-    {
-      "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Network/networkInterfaces/devopsdemobuild445'.",
-      "type": "Microsoft.Network/networkInterfaces",
-      "name": "[parameters('networkInterfaces_devopsdemobuild445_name')]",
-      "apiVersion": "2016-03-30",
-      "location": "eastus",
-      "properties": {
-        "ipConfigurations": [
-          {
-            "name": "ipconfig1",
-            "properties": {
-              "privateIPAddress": "10.2.0.4",
-              "privateIPAllocationMethod": "Dynamic",
-              "publicIPAddress": {
-                "id": "[resourceId('Microsoft.Network/publicIPAddresses', parameters('publicIPAddresses_DevOpsDemoBuild_ip_name'))]"
-              },
-              "subnet": {
-                "id": "[concat(resourceId('Microsoft.Network/virtualNetworks', parameters('virtualNetworks_PauldevopsDemo_RG_vnet_name')), '/subnets/default')]"
-              }
-            }
-          }
-        ],
-        "dnsSettings": {
-          "dnsServers": [ ]
-        },
-        "enableIPForwarding": false,
-        "networkSecurityGroup": {
-          "id": "[resourceId('Microsoft.Network/networkSecurityGroups', parameters('networkSecurityGroups_DevOpsDemoBuild_nsg_name'))]"
-        }
-      },
-      "resources": [ ],
-      "dependsOn": [
-        "[resourceId('Microsoft.Network/publicIPAddresses', parameters('publicIPAddresses_DevOpsDemoBuild_ip_name'))]",
-        "[resourceId('Microsoft.Network/virtualNetworks', parameters('virtualNetworks_PauldevopsDemo_RG_vnet_name'))]",
-        "[resourceId('Microsoft.Network/networkSecurityGroups', parameters('networkSecurityGroups_DevOpsDemoBuild_nsg_name'))]"
-      ]
-    },
-    {
-      "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Network/networkSecurityGroups/DevOpsDemoBuild-nsg'.",
-      "type": "Microsoft.Network/networkSecurityGroups",
-      "name": "[parameters('networkSecurityGroups_DevOpsDemoBuild_nsg_name')]",
-      "apiVersion": "2016-03-30",
-      "location": "eastus",
-      "properties": {
-        "securityRules": [
-          {
-            "name": "default-allow-rdp",
-            "properties": {
-              "protocol": "TCP",
-              "sourcePortRange": "*",
-              "destinationPortRange": "3389",
-              "sourceAddressPrefix": "*",
-              "destinationAddressPrefix": "*",
-              "access": "Allow",
-              "priority": 1000,
-              "direction": "Inbound"
-            }
-          }
-        ]
-      },
-      "resources": [ ],
-      "dependsOn": [ ]
-    },
-    {
-      "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Network/publicIPAddresses/DevOpsDemoBuild-ip'.",
-      "type": "Microsoft.Network/publicIPAddresses",
-      "name": "[parameters('publicIPAddresses_DevOpsDemoBuild_ip_name')]",
-      "apiVersion": "2016-03-30",
-      "location": "eastus",
-      "properties": {
-        "publicIPAllocationMethod": "Dynamic",
-        "idleTimeoutInMinutes": 4
-      },
-      "resources": [ ],
-      "dependsOn": [ ]
-    },
-    {
-      "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Network/publicIPAddresses/DevOpsDemoBuildip'.",
-      "type": "Microsoft.Network/publicIPAddresses",
-      "name": "[parameters('publicIPAddresses_DevOpsDemoBuildip_name')]",
-      "apiVersion": "2016-03-30",
-      "location": "eastus",
-      "properties": {
-        "publicIPAllocationMethod": "Dynamic",
-        "idleTimeoutInMinutes": 4
       },
       "resources": [ ],
       "dependsOn": [ ]

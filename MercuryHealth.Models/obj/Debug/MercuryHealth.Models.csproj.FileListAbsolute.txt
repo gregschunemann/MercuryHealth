@@ -17,3 +17,9 @@ C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Models\bin\Debug\M
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.dll
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.pdb
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.csprojResolveAssemblyReference.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\bin\Debug\MercuryHealth.Models.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\bin\Debug\MercuryHealth.Models.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.csprojResolveAssemblyReference.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.csproj.CoreCompileInputs.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Debug\MercuryHealth.Models.pdb

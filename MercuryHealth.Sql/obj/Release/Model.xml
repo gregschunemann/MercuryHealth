@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="MercuryHealth.Sql.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\PAUL HACKER\SOURCE\REPOS\MERCURYHEALTH\MERCURYHEALTH.SQL\OBJ\RELEASE\MERCURYHEALTH.SQL.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\GRSCHUNE\DESKTOP\MERCURYHEALTH\MERCURYHEALTH.SQL\OBJ\RELEASE\MERCURYHEALTH.SQL.DLL" />
 			<Metadata Name="AssemblyName" Value="MercuryHealth.Sql" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Sql\obj\Release\MercuryHealth.Sql.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\MercuryHealth.Sql.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

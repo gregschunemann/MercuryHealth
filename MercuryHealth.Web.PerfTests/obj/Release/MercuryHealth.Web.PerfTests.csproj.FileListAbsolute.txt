@@ -23,3 +23,10 @@ C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\bin\
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.csprojResolveAssemblyReference.cache
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.dll
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\AboutPage.webtest
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\ContactPage.webtest
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\MercuryHealth.Web.PerfTests.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\MercuryHealth.Web.PerfTests.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.csproj.CoreCompileInputs.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.pdb

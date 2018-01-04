@@ -13,3 +13,9 @@ C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\bin\
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.csprojResolveAssemblyReference.cache
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.dll
 C:\Users\Paul Hacker\Source\Repos\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.FuncTests\bin\Release\MercuryHealth.Web.FuncTests.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.FuncTests\bin\Release\MercuryHealth.Web.FuncTests.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.csprojResolveAssemblyReference.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.csproj.CoreCompileInputs.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.dll
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.FuncTests\obj\Release\MercuryHealth.Web.FuncTests.pdb
