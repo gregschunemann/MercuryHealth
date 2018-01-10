@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C801CAEB-8A86-4543-AA0B-0CECCBBC03B0}"
 	ProjectSection(SolutionItems) = preProject
@@ -36,6 +36,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercuryHealth.CodedUITests", "MercuryHealth.CodedUITests\MercuryHealth.CodedUITests.csproj", "{4B5D73B1-08E7-44A0-94E0-3BD204BBDD4D}"
 EndProject
 Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "MercuryHealth.Infrastructure", "MercuryHealth.Infrastructure\MercuryHealth.Infrastructure.deployproj", "{D738D2E5-7F56-40C7-90B1-4409A0C266B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITest", "CodedUITest\CodedUITest.csproj", "{0AA791C2-E0B2-4263-9B74-26F92E0C6DF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{D738D2E5-7F56-40C7-90B1-4409A0C266B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D738D2E5-7F56-40C7-90B1-4409A0C266B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D738D2E5-7F56-40C7-90B1-4409A0C266B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA791C2-E0B2-4263-9B74-26F92E0C6DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA791C2-E0B2-4263-9B74-26F92E0C6DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA791C2-E0B2-4263-9B74-26F92E0C6DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA791C2-E0B2-4263-9B74-26F92E0C6DF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,5 +98,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D07F10B5-8285-434E-845D-CB0F3A3F49D1} = {BFE129F0-6B82-4A64-B0FF-E0C02DEDEB31}
 		{9AC33941-0C79-46CC-8C35-9A3B1EAB2C54} = {BFE129F0-6B82-4A64-B0FF-E0C02DEDEB31}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE85293A-C5CC-4B1A-943B-1392E6315924}
 	EndGlobalSection
 EndGlobal
