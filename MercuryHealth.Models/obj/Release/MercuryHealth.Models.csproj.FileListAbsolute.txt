@@ -3,3 +3,4 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\bin\Release\Mercury
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Release\MercuryHealth.Models.csproj.CoreCompileInputs.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Release\MercuryHealth.Models.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Release\MercuryHealth.Models.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Models\obj\Release\MercuryHealth.Models.csprojResolveAssemblyReference.cache

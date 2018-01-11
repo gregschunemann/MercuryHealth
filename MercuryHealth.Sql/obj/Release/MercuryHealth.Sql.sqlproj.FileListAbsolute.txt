@@ -39,7 +39,3 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\bin\Release\MercuryHea
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\bin\Release\MercuryHealth.Sql.pdb
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\MercuryHealth.Sql.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\MercuryHealth.Sql.pdb
-C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\Model.xml
-C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\refactor.xml
-C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\postdeploy.sql
-C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Sql\obj\Release\predeploy.sql

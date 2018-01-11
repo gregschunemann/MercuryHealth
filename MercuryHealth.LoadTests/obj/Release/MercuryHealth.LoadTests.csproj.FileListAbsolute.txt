@@ -5,7 +5,6 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\bin\Release\Merc
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\bin\Release\MercuryHealth.loadtest
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\bin\Release\MercuryHealth.LoadTests.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\bin\Release\MercuryHealth.LoadTests.pdb
-C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Release\MercuryHealth.LoadTests.csprojResolveAssemblyReference.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Release\MercuryHealth.LoadTests.csproj.CoreCompileInputs.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Release\MercuryHealth.LoadTests.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Release\MercuryHealth.LoadTests.pdb

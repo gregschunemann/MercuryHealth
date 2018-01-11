@@ -1,0 +1,6 @@
+C:\Users\grschune\Desktop\MercuryHealth\CodedUITest\bin\Debug\CodedUITest.dll
+C:\Users\grschune\Desktop\MercuryHealth\CodedUITest\bin\Debug\CodedUITest.pdb
+C:\Users\grschune\Desktop\MercuryHealth\CodedUITest\obj\Debug\CodedUITest.csprojResolveAssemblyReference.cache
+C:\Users\grschune\Desktop\MercuryHealth\CodedUITest\obj\Debug\CodedUITest.csproj.CoreCompileInputs.cache
+C:\Users\grschune\Desktop\MercuryHealth\CodedUITest\obj\Debug\CodedUITest.dll
+C:\Users\grschune\Desktop\MercuryHealth\CodedUITest\obj\Debug\CodedUITest.pdb

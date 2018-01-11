@@ -29,72 +29,7 @@ namespace CodedUITest
     public partial class UIMap
     {
         
-        /// <summary>
-        /// bing
-        /// </summary>
-        public void RecordedMethod3()
-        {
-            #region Variable Declarations
-            WinWindow uIMercuryHealthMercuryWindow1 = this.UIMercuryHealthMercuryWindow.UIMercuryHealthMercuryWindow1;
-            WinToolBar uIBookmarksToolBar = this.UINewTabGoogleChromeWindow.UINewTabGoogleChromeClient.UIBookmarksToolBar;
-            WinEdit uIAddressandsearchbarEdit = this.UINewTabGoogleChromeWindow.UIItemGroup.UIAddressandsearchbarEdit;
-            WinWindow uIBingGoogleChromeWindow = this.UINewTabGoogleChromeWindow.UIBingGoogleChromeWindow;
-            #endregion
-
-            // Click 'Mercury Health - Mercury Health - Google Chrome' window
-            Mouse.Click(uIMercuryHealthMercuryWindow1, new Point(861, 194));
-
-            // Launch '%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe'
-            ApplicationUnderTest uINewTabGoogleChromeWindow = ApplicationUnderTest.Launch(this.RecordedMethod3Params.UINewTabGoogleChromeWindowExePath, this.RecordedMethod3Params.UINewTabGoogleChromeWindowAlternateExePath);
-
-            // Click 'Bookmarks' tool bar
-            Mouse.Click(uIBookmarksToolBar, new Point(614, 35));
-
-            // Type 'https://www.bing.com' in 'Address and search bar' text box
-            uIAddressandsearchbarEdit.Text = this.RecordedMethod3Params.UIAddressandsearchbarEditText;
-
-            // Click 'Bing - Google Chrome' window
-            Mouse.Click(uIBingGoogleChromeWindow, new Point(708, 579));
-
-            // Type 'https://www.bing.com/search?q=microsoft&qs=n&form=QBLH&sp=-1&pq=microsoft&sc=8-9&sk=&cvid=D13BE406FBFF4D95A49DB00CCE5E7435' in 'Address and search bar' text box
-            uIAddressandsearchbarEdit.Text = this.RecordedMethod3Params.UIAddressandsearchbarEditText1;
-        }
-        
-        /// <summary>
-        /// xbox
-        /// </summary>
-        public void RecordedMethod4()
-        {
-            #region Variable Declarations
-            WinWindow uIMicrosoftBingGoogleCWindow1 = this.UINewTabGoogleChromeWindow.UIMicrosoftBingGoogleCWindow1;
-            #endregion
-
-            // Click 'microsoft - Bing - Google Chrome' window
-            Mouse.Click(uIMicrosoftBingGoogleCWindow1, new Point(718, 505));
-
-            // Click 'microsoft - Bing - Google Chrome' window
-            Mouse.Click(uIMicrosoftBingGoogleCWindow1, new Point(482, 284));
-
-            // Click 'microsoft - Bing - Google Chrome' window
-            Mouse.Click(uIMicrosoftBingGoogleCWindow1, new Point(385, 513));
-
-            // Click 'microsoft - Bing - Google Chrome' window
-            Mouse.Click(uIMicrosoftBingGoogleCWindow1, new Point(1391, 1556));
-        }
-        
         #region Properties
-        public virtual RecordedMethod3Params RecordedMethod3Params
-        {
-            get
-            {
-                if ((this.mRecordedMethod3Params == null))
-                {
-                    this.mRecordedMethod3Params = new RecordedMethod3Params();
-                }
-                return this.mRecordedMethod3Params;
-            }
-        }
-        
         public UINewTabGoogleChromeWindow UINewTabGoogleChromeWindow
         {
             get
@@ -121,42 +56,9 @@ namespace CodedUITest
         #endregion
         
         #region Fields
-        private RecordedMethod3Params mRecordedMethod3Params;
-        
         private UINewTabGoogleChromeWindow mUINewTabGoogleChromeWindow;
         
         private UIMercuryHealthMercuryWindow mUIMercuryHealthMercuryWindow;
-        #endregion
-    }
-    
-    /// <summary>
-    /// Parameters to be passed into 'RecordedMethod3'
-    /// </summary>
-    [GeneratedCode("Coded UITest Builder", "15.0.26208.0")]
-    public class RecordedMethod3Params
-    {
-        
-        #region Fields
-        /// <summary>
-        /// Launch '%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe'
-        /// </summary>
-        public string UINewTabGoogleChromeWindowExePath = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
-        
-        /// <summary>
-        /// Launch '%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe'
-        /// </summary>
-        public string UINewTabGoogleChromeWindowAlternateExePath = "%ProgramFiles(x86)%\\Google\\Chrome\\Application\\chrome.exe";
-        
-        /// <summary>
-        /// Type 'https://www.bing.com' in 'Address and search bar' text box
-        /// </summary>
-        public string UIAddressandsearchbarEditText = "https://www.bing.com";
-        
-        /// <summary>
-        /// Type 'https://www.bing.com/search?q=microsoft&qs=n&form=QBLH&sp=-1&pq=microsoft&sc=8-9&sk=&cvid=D13BE406FBFF4D95A49DB00CCE5E7435' in 'Address and search bar' text box
-        /// </summary>
-        public string UIAddressandsearchbarEditText1 = "https://www.bing.com/search?q=microsoft&qs=n&form=QBLH&sp=-1&pq=microsoft&sc=8-9&" +
-            "sk=&cvid=D13BE406FBFF4D95A49DB00CCE5E7435";
         #endregion
     }
     

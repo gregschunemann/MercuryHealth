@@ -2,7 +2,7 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\bin\Release\M
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\bin\Release\MercuryHealth.CodedUITests.dll.config
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\bin\Release\MercuryHealth.CodedUITests.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\bin\Release\MercuryHealth.CodedUITests.pdb
-C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\obj\Release\MercuryHealth.CodedUITests.csprojResolveAssemblyReference.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\obj\Release\MercuryHealth.CodedUITests.csproj.CoreCompileInputs.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\obj\Release\MercuryHealth.CodedUITests.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\obj\Release\MercuryHealth.CodedUITests.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.CodedUITests\obj\Release\MercuryHealth.CodedUITests.csprojResolveAssemblyReference.cache
