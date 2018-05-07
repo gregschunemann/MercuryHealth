@@ -55,3 +55,4 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\Mercur
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.csproj.CoreCompileInputs.cache
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\obj\Debug\MercuryHealth.LoadTests.pdb
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.LoadTests\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll

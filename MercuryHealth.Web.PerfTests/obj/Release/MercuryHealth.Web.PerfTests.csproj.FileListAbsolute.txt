@@ -31,3 +31,4 @@ C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.dll
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.pdb
 C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\obj\Release\MercuryHealth.Web.PerfTests.csprojResolveAssemblyReference.cache
+C:\Users\grschune\Desktop\MercuryHealth\MercuryHealth.Web.PerfTests\bin\Release\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
