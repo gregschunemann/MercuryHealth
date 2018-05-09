@@ -1,51 +1,51 @@
 ﻿{
   "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
-  "parameters": {
-    "virtualMachines_devopsDemoBuild_adminPassword": {
-      "value": "p3psiF1at46077"
-    },
-    "virtualNetworks_PauldevopsDemo_RG_vnet_name": {
-      "value": "merchealth_RG-vnet"
-    },
-    "servers_pauldevopsdemosql_name": {
-      "value": "merchealthsql1"
-    },
-    "storageAccounts_devopsdemodiagstrg_name": {
-      "value": "merchealthdiagstrg"
-    },
-    "storageAccounts_devopsdemostrg_name": {
-      "value": "merchealthstrg1"
-    },
-    "serverfarms_PauldevopsDemoServicePlan_name": {
-      "value": "merchealthServicePlan"
-    },
-    "sites_PauldevopsDemoWebQA_name": {
-      "value": "merchealthWebQA"
-    },
-    "sites_PauldevopsDemoWebBG_name": {
-      "value": "merchealthWebBG"
-    },
-    "sites_PauldevopsDemoWebDev_name": {
-      "value": "merchealthWebDev"
-    },
-    "sites_PauldevopsDemoWeb_name": {
-      "value": "merchealthWeb1"
-    },
-    "databases_master_name": {
-      "value": "merchealthsql1/master"
-    },
-    "databases_PauldevopsDemoDBDev_name": {
-      "value": "merchealthsql1/merchealthDBDev"
-    },
-    "databases_PauldevopsDemoDBQA_name": {
-      "value": "merchealthsql1/merchealthDemoDBQA"
-    },
-    "databases_PauldevopsDemoDB_name": {
-      "value": "merchealthsql1/merchealthDB"
-    },
-    "firewallRules_AllowAllWindowsAzureIps_name": {
-      "value": "merchealthsql1/AllowAllWindowsAzureIps"
+    "parameters": {
+        "virtualMachines_devopsDemoBuild_adminPassword": {
+            "value": "p3psiF1at46077"
+        },
+        "virtualNetworks_devopsDemo_RG_vnet_name": {
+            "value": "merchealth_RG-vnet"
+        },
+        "servers_devopsdemosql_name": {
+            "value": "merchealthsql1"
+        },
+        "storageAccounts_devopsdemodiagstrg_name": {
+            "value": "merchealthdiagstrg"
+        },
+        "storageAccounts_devopsdemostrg_name": {
+            "value": "merchealthstrg1"
+        },
+        "serverfarms_DevOpsDemoServicePlan_name": {
+            "value": "merchealthServicePlan"
+        },
+        "sites_DevOpsDemoWebQA_name": {
+            "value": "merchealthWebQA"
+        },
+        "sites_DevOpsDemoWebBG_name": {
+            "value": "merchealthWebBG"
+        },
+        "sites_DevOpsDemoWebDev_name": {
+            "value": "merchealthWebDev"
+        },
+        "sites_DevOpsDemoWeb_name": {
+            "value": "merchealthWeb1"
+        },
+        "databases_master_name": {
+            "value": "merchealthsql1/master"
+        },
+        "databases_DevOpsDemoDBDev_name": {
+            "value": "merchealthsql1/merchealthDBDev"
+        },
+        "databases_DevOpsDemoDBQA_name": {
+            "value": "merchealthsql1/merchealthDemoDBQA"
+        },
+        "databases_DevOpsDemoDB_name": {
+            "value": "merchealthsql1/merchealthDB"
+        },
+        "firewallRules_AllowAllWindowsAzureIps_name": {
+            "value": "merchealthsql1/AllowAllWindowsAzureIps"
+        }
     }
-  }
 }

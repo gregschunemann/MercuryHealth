@@ -5,19 +5,19 @@
     "virtualMachines_devopsDemoBuild_adminPassword": {
       "type": "String"
     },
-    "components_pauldevopsdemoweb_name": {
+    "components_devopsdemoweb_name": {
       "defaultValue": "devopsweb1",
       "type": "String"
     },
-    "components_pauldevopsdemowebbg_name": {
+    "components_devopsdemowebbg_name": {
       "defaultValue": "devopswebbg",
       "type": "String"
     },
-    "components_pauldevopsdemowebdev_name": {
+    "components_devopsdemowebdev_name": {
       "defaultValue": "devopswebdev",
       "type": "String"
     },
-    "components_pauldevopsdemowebqa_name": {
+    "components_devopsdemowebqa_name": {
       "defaultValue": "devopswebqa",
       "type": "String"
     },
@@ -29,11 +29,11 @@
       "defaultValue": "devopsdemobuild445",
       "type": "String"
     },
-    "virtualNetworks_PauldevopsDemo_RG_vnet_name": {
+    "virtualNetworks_devopsDemo_RG_vnet_name": {
       "defaultValue": "PaulDevOpsDemo_RG-vnet",
       "type": "String"
     },
-    "servers_pauldevopsdemosql_name": {
+    "servers_devopsdemosql_name": {
       "defaultValue": "pauldevopsdemosql",
       "type": "String"
     },
@@ -45,23 +45,23 @@
       "defaultValue": "merchealthstrg",
       "type": "String"
     },
-    "serverfarms_PaulDevOpsDemoServicePlan_name": {
+    "serverfarms_DevOpsDemoServicePlan_name": {
       "defaultValue": "PaulDevOpsDemoServicePlan",
       "type": "String"
     },
-    "sites_PaulDevOpsDemoWebQA_name": {
+    "sites_DevOpsDemoWebQA_name": {
       "defaultValue": "PaulDevOpsDemoWebQA",
       "type": "String"
     },
-    "sites_PaulDevOpsDemoWebBG_name": {
+    "sites_DevOpsDemoWebBG_name": {
       "defaultValue": "DevOpsWebBG",
       "type": "String"
     },
-    "sites_PaulDevOpsDemoWebDev_name": {
+    "sites_DevOpsDemoWebDev_name": {
       "defaultValue": "DevOpsWebDev",
       "type": "String"
     },
-    "sites_PaulDevOpsDemoWeb_name": {
+    "sites_DevOpsDemoWeb_name": {
       "defaultValue": "DevOpsWeb1",
       "type": "String"
     },
@@ -69,15 +69,15 @@
       "defaultValue": "pauldevopsdemosql/master",
       "type": "String"
     },
-    "databases_PaulDevOpsDemoDBDev_name": {
+    "databases_DevOpsDemoDBDev_name": {
       "defaultValue": "pauldevopsdemosql/PaulDevOpsDemoDBDev",
       "type": "String"
     },
-    "databases_PaulDevOpsDemoDBQA_name": {
+    "databases_DevOpsDemoDBQA_name": {
       "defaultValue": "pauldevopsdemosql/PaulDevOpsDemoDBQA",
       "type": "String"
     },
-    "databases_PaulDevOpsDemoDB_name": {
+    "databases_DevOpsDemoDB_name": {
       "defaultValue": "pauldevopsdemosql/PaulDevOpsDemoDB",
       "type": "String"
     },
@@ -92,14 +92,14 @@
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/microsoft.insights/components/pauldevopsdemoweb'.",
       "type": "microsoft.insights/components",
       "kind": "web",
-      "name": "[parameters('components_pauldevopsdemoweb_name')]",
+      "name": "[parameters('components_devopsdemoweb_name')]",
       "apiVersion": "2014-04-01",
       "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWeb": "Resource"
       },
       "properties": {
-        "ApplicationId": "[parameters('components_pauldevopsdemoweb_name')]"
+        "ApplicationId": "[parameters('components_devopsdemoweb_name')]"
       },
       "resources": [ ],
       "dependsOn": [ ]
@@ -108,14 +108,14 @@
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/microsoft.insights/components/pauldevopsdemowebbg'.",
       "type": "microsoft.insights/components",
       "kind": "web",
-      "name": "[parameters('components_pauldevopsdemowebbg_name')]",
+      "name": "[parameters('components_devopsdemowebbg_name')]",
       "apiVersion": "2014-04-01",
       "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWebBG": "Resource"
       },
       "properties": {
-        "ApplicationId": "[parameters('components_pauldevopsdemowebbg_name')]"
+        "ApplicationId": "[parameters('components_devopsdemowebbg_name')]"
       },
       "resources": [ ],
       "dependsOn": [ ]
@@ -124,14 +124,14 @@
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/microsoft.insights/components/pauldevopsdemowebdev'.",
       "type": "microsoft.insights/components",
       "kind": "web",
-      "name": "[parameters('components_pauldevopsdemowebdev_name')]",
+      "name": "[parameters('components_devopsdemowebdev_name')]",
       "apiVersion": "2014-04-01",
       "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWebDev": "Resource"
       },
       "properties": {
-        "ApplicationId": "[parameters('components_pauldevopsdemowebdev_name')]"
+        "ApplicationId": "[parameters('components_devopsdemowebdev_name')]"
       },
       "resources": [ ],
       "dependsOn": [ ]
@@ -140,14 +140,14 @@
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/microsoft.insights/components/pauldevopsdemowebqa'.",
       "type": "microsoft.insights/components",
       "kind": "web",
-      "name": "[parameters('components_pauldevopsdemowebqa_name')]",
+      "name": "[parameters('components_devopsdemowebqa_name')]",
       "apiVersion": "2014-04-01",
       "location": "East US",
       "tags": {
         "hidden-link:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsWebQA": "Resource"
       },
       "properties": {
-        "ApplicationId": "[parameters('components_pauldevopsdemowebqa_name')]"
+        "ApplicationId": "[parameters('components_devopsdemowebqa_name')]"
       },
       "resources": [ ],
       "dependsOn": [ ]
@@ -155,7 +155,7 @@
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Network/virtualNetworks/PaulDevOpsDemo_RG-vnet'.",
       "type": "Microsoft.Network/virtualNetworks",
-      "name": "[parameters('virtualNetworks_PauldevopsDemo_RG_vnet_name')]",
+      "name": "[parameters('virtualNetworks_devopsDemo_RG_vnet_name')]",
       "apiVersion": "2016-03-30",
       "location": "eastus",
       "properties": {
@@ -180,7 +180,7 @@
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Sql/servers/pauldevopsdemosql'.",
       "type": "Microsoft.Sql/servers",
       "kind": "v12.0",
-      "name": "[parameters('servers_pauldevopsdemosql_name')]",
+      "name": "[parameters('servers_devopsdemosql_name')]",
       "apiVersion": "2014-04-01-preview",
       "location": "East US",
       "properties": {
@@ -233,11 +233,11 @@
         "family": "S",
         "capacity": 1
       },
-      "name": "[parameters('serverfarms_PaulDevOpsDemoServicePlan_name')]",
+      "name": "[parameters('serverfarms_DevOpsDemoServicePlan_name')]",
       "apiVersion": "2015-08-01",
       "location": "East US",
       "properties": {
-        "name": "[parameters('serverfarms_PaulDevOpsDemoServicePlan_name')]",
+        "name": "[parameters('serverfarms_DevOpsDemoServicePlan_name')]",
         "numberOfWorkers": 1
       },
       "resources": [ ],
@@ -246,14 +246,14 @@
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsDemoWebQA'.",
       "type": "Microsoft.Web/sites",
-      "name": "[parameters('sites_PaulDevOpsDemoWebQA_name')]",
+      "name": "[parameters('sites_DevOpsDemoWebQA_name')]",
       "apiVersion": "2015-08-01",
       "location": "East US",
       "tags": {
         "hidden-related:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourcegroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/serverfarms/PaulDevOpsDemoServicePlan": "empty"
       },
       "properties": {
-        "name": "[parameters('sites_PaulDevOpsDemoWebQA_name')]",
+        "name": "[parameters('sites_DevOpsDemoWebQA_name')]",
         "hostNames": [
           "devopswebqa.azurewebsites.net"
         ],
@@ -263,36 +263,36 @@
         ],
         "hostNameSslStates": [
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWebQA_name'),'devopswebqa.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWebQA_name'),'devopswebqa.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           },
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWebQA_name'),'devopswebqa.scm.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWebQA_name'),'devopswebqa.scm.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           }
         ],
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       ]
     },
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsDemoWebBG'.",
       "type": "Microsoft.Web/sites",
-      "name": "[parameters('sites_PaulDevOpsDemoWebBG_name')]",
+      "name": "[parameters('sites_DevOpsDemoWebBG_name')]",
       "apiVersion": "2015-08-01",
       "location": "East US",
       "tags": {
         "hidden-related:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourcegroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/serverfarms/DevOpsServicePlan": "empty"
       },
       "properties": {
-        "name": "[parameters('sites_PaulDevOpsDemoWebBG_name')]",
+        "name": "[parameters('sites_DevOpsDemoWebBG_name')]",
         "hostNames": [
           "devopswebbg.azurewebsites.net"
         ],
@@ -302,36 +302,36 @@
         ],
         "hostNameSslStates": [
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWebBG_name'),'devopswebbg.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWebBG_name'),'devopswebbg.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           },
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWebBG_name'),'devopswebbg.scm.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWebBG_name'),'devopswebbg.scm.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           }
         ],
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       ]
     },
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsDemoWebDev'.",
       "type": "Microsoft.Web/sites",
-      "name": "[parameters('sites_PaulDevOpsDemoWebDev_name')]",
+      "name": "[parameters('sites_DevOpsDemoWebDev_name')]",
       "apiVersion": "2015-08-01",
       "location": "East US",
       "tags": {
         "hidden-related:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourcegroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/serverfarms/DevOpsServicePlan": "empty"
       },
       "properties": {
-        "name": "[parameters('sites_PaulDevOpsDemoWebDev_name')]",
+        "name": "[parameters('sites_DevOpsDemoWebDev_name')]",
         "hostNames": [
           "devopswebdev.azurewebsites.net"
         ],
@@ -341,36 +341,36 @@
         ],
         "hostNameSslStates": [
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWebDev_name'),'devopswebdev.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWebDev_name'),'devopswebdev.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           },
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWebDev_name'),'devopswebdev.scm.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWebDev_name'),'devopswebdev.scm.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           }
         ],
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       ]
     },
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/sites/PaulDevOpsDemoWeb'.",
       "type": "Microsoft.Web/sites",
-      "name": "[parameters('sites_PaulDevOpsDemoWeb_name')]",
+      "name": "[parameters('sites_DevOpsDemoWeb_name')]",
       "apiVersion": "2015-08-01",
       "location": "East US",
       "tags": {
         "hidden-related:/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourcegroups/PaulDevOpsDemo_RG/providers/Microsoft.Web/serverfarms/DevOpsServicePlan": "empty"
       },
       "properties": {
-        "name": "[parameters('sites_PaulDevOpsDemoWeb_name')]",
+        "name": "[parameters('sites_DevOpsDemoWeb_name')]",
         "hostNames": [
           "devopsweb1.azurewebsites.net"
         ],
@@ -380,23 +380,23 @@
         ],
         "hostNameSslStates": [
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWeb_name'),'devopsweb.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWeb_name'),'devopsweb.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           },
           {
-            "name": "[concat(parameters('sites_PaulDevOpsDemoWeb_name'),'devopsweb.scm.azurewebsites.net')]",
+            "name": "[concat(parameters('sites_DevOpsDemoWeb_name'),'devopsweb.scm.azurewebsites.net')]",
             "sslState": 0,
             "thumbprint": null,
             "ipBasedSslState": 0
           }
         ],
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_PaulDevOpsDemoServicePlan_name'))]"
+        "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DevOpsDemoServicePlan_name'))]"
       ]
     },
     {
@@ -420,14 +420,14 @@
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Sql/servers', parameters('servers_pauldevopsdemosql_name'))]"
+        "[resourceId('Microsoft.Sql/servers', parameters('servers_devopsdemosql_name'))]"
       ]
     },
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Sql/servers/pauldevopsdemosql/databases/PaulDevOpsDemoDBDev'.",
       "type": "Microsoft.Sql/servers/databases",
       "kind": "v12.0,user",
-      "name": "[parameters('databases_PaulDevOpsDemoDBDev_name')]",
+      "name": "[parameters('databases_DevOpsDemoDBDev_name')]",
       "apiVersion": "2014-04-01-preview",
       "location": "East US",
       "properties": {
@@ -444,14 +444,14 @@
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Sql/servers', parameters('servers_pauldevopsdemosql_name'))]"
+        "[resourceId('Microsoft.Sql/servers', parameters('servers_devopsdemosql_name'))]"
       ]
     },
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Sql/servers/pauldevopsdemosql/databases/PaulDevOpsDemoDBQA'.",
       "type": "Microsoft.Sql/servers/databases",
       "kind": "v12.0,user",
-      "name": "[parameters('databases_PaulDevOpsDemoDBQA_name')]",
+      "name": "[parameters('databases_DevOpsDemoDBQA_name')]",
       "apiVersion": "2014-04-01-preview",
       "location": "East US",
       "properties": {
@@ -468,14 +468,14 @@
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Sql/servers', parameters('servers_pauldevopsdemosql_name'))]"
+        "[resourceId('Microsoft.Sql/servers', parameters('servers_devopsdemosql_name'))]"
       ]
     },
     {
       "comments": "Generalized from resource: '/subscriptions/24b189e9-d338-435f-a60f-3491b68bc8a2/resourceGroups/PaulDevOpsDemo_RG/providers/Microsoft.Sql/servers/pauldevopsdemosql/databases/PaulDevOpsDemoDB'.",
       "type": "Microsoft.Sql/servers/databases",
       "kind": "v12.0,user",
-      "name": "[parameters('databases_PaulDevOpsDemoDB_name')]",
+      "name": "[parameters('databases_DevOpsDemoDB_name')]",
       "apiVersion": "2014-04-01-preview",
       "location": "East US",
       "properties": {
@@ -491,7 +491,7 @@
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Sql/servers', parameters('servers_pauldevopsdemosql_name'))]"
+        "[resourceId('Microsoft.Sql/servers', parameters('servers_devopsdemosql_name'))]"
       ]
     },
     {
@@ -507,7 +507,7 @@
       },
       "resources": [ ],
       "dependsOn": [
-        "[resourceId('Microsoft.Sql/servers', parameters('servers_pauldevopsdemosql_name'))]"
+        "[resourceId('Microsoft.Sql/servers', parameters('servers_devopsdemosql_name'))]"
       ]
     }
   ]

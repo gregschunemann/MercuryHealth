@@ -71,6 +71,7 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
+    <Folder Include="Snapshots" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Exercises.sql" />
@@ -87,5 +88,6 @@
     <None Include="MercuryHealth.Sql.Dev.publish.xml" />
     <None Include="MercuryHealth.Sql.Prod.publish.xml" />
     <None Include="MercuryHealthGrp.Sql..Prod.publish.xml" />
+    <None Include="Snapshots\MercuryHealth.Sql_20180509_10-55-48.dacpac" />
   </ItemGroup>
 </Project>
